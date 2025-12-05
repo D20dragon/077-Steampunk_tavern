@@ -2,6 +2,8 @@
   "id": "077-steampunk-tavern",
   "title": "077 Steampunk tavern",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/077-Steampunk_tavern/main/module.json",
+  "download": "https://github.com/D20dragon/077-Steampunk_tavern/releases/download/1.0.0/077-steampunk-tavern.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
